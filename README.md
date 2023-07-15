@@ -1,4 +1,4 @@
-TEMA DO PROJETO
+TEMA DO PROJETO:
 
 Adote um Idoso
 
@@ -8,7 +8,8 @@ Objetivo:
 
 Descrição:
 
-Tecnologias:
+Tecnologias Utilizadas:
+
 Git/Github
 
 Css
