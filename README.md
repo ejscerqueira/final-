@@ -8,11 +8,15 @@ Objetivo:
 
 Descrição:
 
-Tecnologias
+Tecnologias:
 Git/Github
+
 Css
+
 Html
+
 Javascript
+
 ReactJs
 
 
