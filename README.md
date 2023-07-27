@@ -1,4 +1,4 @@
-<h1 align="center" whidth="20">Tema do projeto:</h1>
+<h1 align="center" whidth="50">Tema do Projeto:</h1>
 
 <h2></h2>
 
