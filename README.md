@@ -14,7 +14,7 @@ Sabendo também do problema causado pelo enfraquecimento dos laços familiares n
 <p>Tendo em vista que a solidão é um grande problema enfrentado pelos idoso, a página tem como objetivo conectar voluntários que desejam disponibilizar uma parte do seu tempo para interagir com idosos que se sentem sozinhos e estão em situação de abandono.</p>
 O projeto não visa doação de valores e nem propõe encontro presenciais, para que a segurança e o bem estar dos idosos se mantenham preservados.
 
-# ![image](https://github.com/ejscerqueira/final-/assets/61998637/54a463f4-d9c2-4b15-b87f-92629da65ddd) O site possui 6 páginas: 
+#![image](https://github.com/ejscerqueira/final-/assets/61998637/54a463f4-d9c2-4b15-b87f-92629da65ddd) O site possui 6 páginas: 
 
 •	Sobre
 •	Notícias
@@ -48,7 +48,7 @@ Formulários
 
 
 
-# ![image](https://github.com/ejscerqueira/final-/assets/61998637/37d846da-5094-469f-b632-23a0824d7656) Futuras Implementações:
+#![image](https://github.com/ejscerqueira/final-/assets/61998637/37d846da-5094-469f-b632-23a0824d7656) Futuras Implementações:
 •	Banco de Dados( Onde conectará idoso e voluntários por suas afinidades)
 •	Pop up (Alerta de segurança)
 
