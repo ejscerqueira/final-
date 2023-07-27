@@ -48,8 +48,8 @@ Formulários
 
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/56a61fce-b6bb-4cb7-bd62-90d4240334ac) Futuras Implementações:
-<p>•	Banco de Dados( Onde conectará idoso e voluntários por suas afinidades)</p>
-<p>•	Pop up (Alerta de segurança)</p>
+-	Banco de Dados( Onde conectará idoso e voluntários por suas afinidades)
+-	Pop up (Alerta de segurança)
 
 
 # Aqui, Emília Cerqueira 
