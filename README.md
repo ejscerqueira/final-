@@ -33,16 +33,13 @@ Formulários
 
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/f761f362-ffac-4bfb-b654-90b76c2994ce) Tecnologias Utilizadas
-- `CSS`: descrição da funcionalidade 1
-- `HTML2`: descrição da funcionalidade 2
-- `JAVASCRIPT	a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `GITHUB/GIT	`: descrição da funcionalidade 3
 
-) Tecnologias utilizadas:
--  `CSS`: descrição da funcionalidade 1
-- `HTML2`: descrição da funcionalidade 2
-- `JAVASCRIPT`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `GITHUB/GIT`: descrição da funcionalidade 3
+- `CSS`
+- `HTML2`
+- `JAVASCRIPT	
+- `GITHUB/GIT	`
+
+
 
 
 
