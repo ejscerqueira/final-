@@ -1,11 +1,12 @@
 <h1 align="center">Tema do projeto </h1>
 
-<h2>Adote um idoso</h2> ![adote](https://github.com/ejscerqueira/final-/assets/61998637/68a2ddaf-08e6-4298-8889-07fb3ba2e019)
+<h2>Adote um idoso</h2> #![adote](https://github.com/ejscerqueira/final-/assets/61998637/68a2ddaf-08e6-4298-8889-07fb3ba2e019)
 
 
 ![Respeitoaoido ](https://github.com/ejscerqueira/final-/assets/61998637/88c68886-e8e2-4c46-b7c2-738c9fef1ffd)
 
 
+#![image](https://github.com/ejscerqueira/final-/assets/61998637/69b77b2d-6079-426a-98aa-710ef7ca7ca9)
 <h3>Contexto:</h3> Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
 Sabendo também do problema causado pelo enfraquecimento dos laços familiares na nova sociedade, onde o desamparo familiar cresce ,mais rápido que a expectativa de vida.
 O pais carece de um projeto para reforçar os cuidados prolongados e a assistência a velhice.
