@@ -1,6 +1,7 @@
 <h1 align="center">Tema do projeto </h1>
 
-<h2>Adote um idoso</h2>
+<h2>Adote um idoso</h2> ![adote](https://github.com/ejscerqueira/final-/assets/61998637/68a2ddaf-08e6-4298-8889-07fb3ba2e019)
+
 
 ![Respeitoaoido ](https://github.com/ejscerqueira/final-/assets/61998637/88c68886-e8e2-4c46-b7c2-738c9fef1ffd)
 
