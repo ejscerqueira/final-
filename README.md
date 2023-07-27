@@ -53,7 +53,9 @@ Formulários
 •	Pop up (Alerta de segurança)
 
 
-# Aqui, Emília Cerqueira ![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)"
+# Aqui, Emília Cerqueira 
+
+<img src="![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)" width="48">
 
 -	Desenvolvedora Web
 -	Participante da turma On23- Todas em Tech da (reprogama) Frontend
