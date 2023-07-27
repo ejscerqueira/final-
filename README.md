@@ -1,6 +1,8 @@
-###TEMA DO PROJETO:
+<h1 align="center">Tema do projeto </h1>
 
 ##Adote um Idoso
+![Respeitoaoido ](https://github.com/ejscerqueira/final-/assets/61998637/88c68886-e8e2-4c46-b7c2-738c9fef1ffd)
+
 
 #Contexto: Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
 Sabendo também do problema causado pelo enfraquecimento dos laços familiares na nova sociedade, onde o desamparo familiar cresce ,mais rápido que a expectativa de vida.
