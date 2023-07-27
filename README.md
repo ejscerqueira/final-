@@ -1,6 +1,7 @@
- ![#a79359](https://via.placeholder.com/15/f03c15/000000?text=+) `#a79359`
+<h1 align="center" whidth="20">Tema do projeto:</h1>
 
-# ![ADOTEMEE](https://github.com/ejscerqueira/final-/assets/61998637/ce10dab3-cdaf-4cab-ba68-faa10d677891) 
+<h2></h2>
+
 
 # <img style = "float: right" src = "![ADOTEMEE](https://github.com/ejscerqueira/final-/assets/61998637/ce10dab3-cdaf-4cab-ba68-faa10d677891)"/>
 
