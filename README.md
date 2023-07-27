@@ -38,6 +38,12 @@ Formulários
 - `JAVASCRIPT	a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `GITHUB/GIT	`: descrição da funcionalidade 3
 
+- 📌Tecnologias utilizadas:
+-  `CSS`: descrição da funcionalidade 1
+- `HTML2`: descrição da funcionalidade 2
+- `JAVASCRIPT`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `GITHUB/GIT`: descrição da funcionalidade 3
+
 
 
 
