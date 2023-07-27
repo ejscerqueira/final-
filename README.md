@@ -15,7 +15,7 @@ Sabendo também do problema causado pelo enfraquecimento dos laços familiares n
 O projeto não visa doação de valores e nem propõe encontro presenciais, para que a segurança e o bem estar dos idosos se mantenham preservados.
 
 
- O site possui 6 páginas: 
+ # O site possui ![image](https://github.com/ejscerqueira/final-/assets/61998637/a24faa80-2bf7-4f8a-98ec-a7af651778bd) páginas: 
 
 •	Sobre
 •	Notícias
