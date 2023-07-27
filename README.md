@@ -1,6 +1,6 @@
-<h1 align="center" whidth="50">Tema do Projeto:</h1>
+<h1 whidth="50">Tema do Projeto:</h1>
 
-<h2></h2>
+<h2>AdoteME</h2>
 
 
 # <img style = "float: right" src = "![ADOTEMEE](https://github.com/ejscerqueira/final-/assets/61998637/ce10dab3-cdaf-4cab-ba68-faa10d677891)"/>
