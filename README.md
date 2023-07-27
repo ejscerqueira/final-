@@ -32,13 +32,13 @@ Formulários
 #Estrutura do projeto:
 
 
-# :hammer:Tecnologias Utilizadas
+# :![image](https://github.com/ejscerqueira/final-/assets/61998637/ff689047-1e28-4d10-bc38-47246b8d579a:Tecnologias utilizadas::Tecnologias Utilizadas
 - `CSS`: descrição da funcionalidade 1
 - `HTML2`: descrição da funcionalidade 2
 - `JAVASCRIPT	a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `GITHUB/GIT	`: descrição da funcionalidade 3
 
-![image](https://github.com/ejscerqueira/final-/assets/61998637/ff689047-1e28-4d10-bc38-47246b8d579a) Tecnologias utilizadas:
+) Tecnologias utilizadas:
 -  `CSS`: descrição da funcionalidade 1
 - `HTML2`: descrição da funcionalidade 2
 - `JAVASCRIPT`: descrição da funcionalidade 2a relacionada à funcionalidade 2
