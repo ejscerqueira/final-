@@ -1,6 +1,6 @@
 <h1 align="center">Tema do projeto </h1>
 
-##Adote um Idoso
+<h2>Adote um idoso</h2>
 
 ![Respeitoaoido ](https://github.com/ejscerqueira/final-/assets/61998637/88c68886-e8e2-4c46-b7c2-738c9fef1ffd)
 
@@ -31,14 +31,13 @@ Formulários
 
 #Estrutura do projeto:
 
-#Tecnologias Utilizadas:
-FERRAMENTA	DESCRIÇÃO
-CSS	
-HTML	
-JAVASCRIPT	
-GITHUB/GIT	
 
-Desafios:
+# :hammer:Tecnologias Utilizadas
+- `CSS`: descrição da funcionalidade 1
+- `HTML2`: descrição da funcionalidade 2
+- `JAVASCRIPT	a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `GITHUB/GIT	`: descrição da funcionalidade 3
+
 
 
 
