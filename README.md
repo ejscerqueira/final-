@@ -14,6 +14,7 @@ Sabendo também do problema causado pelo enfraquecimento dos laços familiares n
 <p>Tendo em vista que a solidão é um grande problema enfrentado pelos idoso, a página tem como objetivo conectar voluntários que desejam disponibilizar uma parte do seu tempo para interagir com idosos que se sentem sozinhos e estão em situação de abandono.</p>
 O projeto não visa doação de valores e nem propõe encontro presenciais, para que a segurança e o bem estar dos idosos se mantenham preservados.
 
+
 ##O site possui 6 páginas:
 •	Sobre
 •	Notícias
@@ -50,6 +51,10 @@ Formulários
 •	Banco de Dados( Onde conectará idoso e voluntários por suas afinidades)
 •	Pop up (Alerta de segurança)
 
+
+# Autores
+| [<img src="![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)
+" width=115><br><sub>](https://github.com/ejscerqueira) 
 Aqui, Emília Cerqueira!
 •	Desenvolvedora Web
 •	Participante da turma On23- Todas em Tech da (reprogama) Frontend
