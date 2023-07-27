@@ -1,4 +1,4 @@
-<h1 align="center">Tema do projeto </h1>
+
 
 # ![ADOTEMEE](https://github.com/ejscerqueira/final-/assets/61998637/ce10dab3-cdaf-4cab-ba68-faa10d677891) 
 
