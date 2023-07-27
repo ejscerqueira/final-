@@ -35,7 +35,7 @@ O projeto não visa doação de valores e nem propõe encontro presenciais, para
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/fc56f28c-a798-458b-9b0b-3e9d0ef6ea51) Outros componentes:
 
-- Formulários
+- FFormulários
 - Menu Hamburguer
 
 #Estrutura do projeto:
