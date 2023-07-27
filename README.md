@@ -17,12 +17,12 @@ O projeto não visa doação de valores e nem propõe encontro presenciais, para
 
  # O site possui ![image](https://github.com/ejscerqueira/final-/assets/61998637/4ff42989-f04f-4f81-960a-7d3d537f1556) páginas: 
 
-•	Sobre
-•	Notícias
-•	Depoimentos
-•	Cadastre um Idoso
-•	Seja um Voluntário 
-•	Fale Conosco
+-	Sobre
+- Notícias
+- Depoimentos
+-	Cadastre um Idoso
+- Seja um Voluntário 
+-	Fale Conosco
 
 ##Todas as páginas têm os componentes:
 Cabeçalho 
