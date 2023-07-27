@@ -34,10 +34,10 @@ Formulários
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/f761f362-ffac-4bfb-b654-90b76c2994ce) Tecnologias Utilizadas
 
-- `CSS`
-- `HTML2`
-- `JAVASCRIPT	
-- `GITHUB/GIT	`
+- CSS
+- HTML
+- JAVASCRIPT	
+- `GITHUB/GIT	
 
 
 
