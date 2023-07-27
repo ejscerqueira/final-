@@ -42,9 +42,9 @@ Formulários
 - JAVASCRIPT	
 - `GITHUB/GIT
 
-- | Ferramentas | Descrição |
+| Ferramentas | Descrição |
 | — — — — — — — — — — | — — — — — — — — — — |
-| Css | Célula de conteúdo |
+| css |
 | Html | Célula de conteúdo |
 
 
