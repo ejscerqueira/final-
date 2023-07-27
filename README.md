@@ -54,9 +54,8 @@ Formulários
 
 
 # Aqui, Emília Cerqueira 
+# ![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/f41584c1-0204-4fb1-8843-e0272e852584)
 
-<img src="![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/f41584c1-0204-4fb1-8843-e0272e852584)
-" width="48">
 
 -	Desenvolvedora Web
 -	Participante da turma On23- Todas em Tech da (reprogama) Frontend
