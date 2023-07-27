@@ -26,15 +26,15 @@ O projeto não visa doação de valores e nem propõe encontro presenciais, para
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/a101bf88-58f5-4411-bc49-029f4bff872a) Todas as páginas têm os componentes:
 
--Cabeçalho 
--Rodapé
+- Cabeçalho 
+- Rodapé
 
 
 
 # ![image](https://github.com/ejscerqueira/final-/assets/61998637/fc56f28c-a798-458b-9b0b-3e9d0ef6ea51) Outros componentes:
 
--Formulários
--Menu Hamburguer
+- Formulários
+- Menu Hamburguer
 
 #Estrutura do projeto:
 
