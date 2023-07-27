@@ -52,8 +52,7 @@ Formulários
 •	Pop up (Alerta de segurança)
 
 
-# Autores
-| [<img src="![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)
+# Autores [<img src="![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)
 " width=115><br><sub>](https://github.com/ejscerqueira) 
 Aqui, Emília Cerqueira!
 •	Desenvolvedora Web
