@@ -53,10 +53,10 @@ Formulários
 
 
 # Aqui, Emília Cerqueira ![emiliajorda](https://github.com/ejscerqueira/final-/assets/61998637/3d747dd3-aa67-48b4-92fa-d23aa4506961)"
-<br><sub>](https://github.com/ejscerqueira) 
 
-•	Desenvolvedora Web
-•	Participante da turma On23- Todas em Tech da (reprogama) Frontend
+-	Desenvolvedora Web
+-	Participante da turma On23- Todas em Tech da (reprogama) Frontend
+-	
 Vamos Juntas!! Ninguém solta a mão de ninguém!
 
 
