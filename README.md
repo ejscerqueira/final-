@@ -6,7 +6,7 @@
 ![Respeitoaoido ](https://github.com/ejscerqueira/final-/assets/61998637/88c68886-e8e2-4c46-b7c2-738c9fef1ffd)
 
 
-#Contexto: Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
+<h3>Contexto:</h3> Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
 Sabendo também do problema causado pelo enfraquecimento dos laços familiares na nova sociedade, onde o desamparo familiar cresce ,mais rápido que a expectativa de vida.
 O pais carece de um projeto para reforçar os cuidados prolongados e a assistência a velhice.
 Na perspectiva de que todas as minorias se não forem eliminadas pelo sistema envelhecerão, decidir desenvolver uma página voltada a esse público ao qual considero “os esquecidos”.
