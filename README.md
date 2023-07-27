@@ -1,12 +1,15 @@
-##TEMA DO PROJETO:
-Adote um Idoso
-Contexto: Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
+###TEMA DO PROJETO:
+
+##Adote um Idoso
+
+#Contexto: Pensando em como o capitalismo é excludente com os idosos que ao perderam a sua força de trabalho maioria das vezes são tratados como inservíveis e improdutivos.
 Sabendo também do problema causado pelo enfraquecimento dos laços familiares na nova sociedade, onde o desamparo familiar cresce ,mais rápido que a expectativa de vida.
 O pais carece de um projeto para reforçar os cuidados prolongados e a assistência a velhice.
 Na perspectiva de que todas as minorias se não forem eliminadas pelo sistema envelhecerão, decidir desenvolver uma página voltada a esse público ao qual considero “os esquecidos”.
 Tendo em vista que a solidão é um grande problema enfrentado pelos idoso, a página tem como objetivo conectar voluntários que desejam disponibilizar uma parte do seu tempo para interagir com idosos que se sentem sozinhos e estão em situação de abandono.
 O projeto não visa doação de valores e nem propõe encontro presenciais, para que a segurança e o bem estar dos idosos se mantenham preservados.
-O site possui 6 páginas:
+
+##O site possui 6 páginas:
 •	Sobre
 •	Notícias
 •	Depoimentos
@@ -14,18 +17,18 @@ O site possui 6 páginas:
 •	Seja um Voluntário 
 •	Fale Conosco
 
-Todas as páginas têm os componentes:
+##Todas as páginas têm os componentes:
 Cabeçalho 
 Rodapé
 
 
 
-Outros componentes:
+#Outros componentes:
 Formulários
 
-Estrutura do projeto:
+#Estrutura do projeto:
 
-Tecnologias Utilizadas:
+#Tecnologias Utilizadas:
 FERRAMENTA	DESCRIÇÃO
 CSS	
 HTML	
@@ -36,7 +39,7 @@ Desafios:
 
 
 
-Futuras Implementações:
+#Futuras Implementações:
 •	Banco de Dados( Onde conectará idoso e voluntários por suas afinidades)
 •	Pop up (Alerta de segurança)
 
