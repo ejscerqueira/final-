@@ -17,7 +17,7 @@ Sabendo também do problema causado pelo enfraquecimento dos laços familiares n
 O projeto não visa doação de valores e nem propõe encontro presenciais, para que a segurança e o bem estar dos idosos se mantenham preservados.
 
 
- # O site possui ![image](https://github.com/ejscerqueira/final-/assets/61998637/4ff42989-f04f-4f81-960a-7d3d537f1556) páginas: 
+ # O site possui ![image](https://github.com/ejscerqueira/final-/assets/61998637/4ff42989-f04f-4f81-960a-7d3d537f1556) Páginas: 
 
 -	Sobre
 - Notícias
@@ -64,7 +64,7 @@ O projeto não visa doação de valores e nem propõe encontro presenciais, para
 -	Desenvolvedora Web
 -	Participante da turma On23- Todas em Tech da (reprogama) Frontend
 -	
-Vamos Juntas!! Ninguém solta a mão de ninguém!
+
 
 
 
