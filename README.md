@@ -39,8 +39,8 @@ Formulários
 
 | Ferramentas| Descrição |
 | --- | --- |
-|Git | List all new or modified files |
-|Github | Show file differences that haven't been staged |
+|GIT | List all new or modified files |
+|GITHUB | Show file differences that haven't been staged |
 |CSS| List all new or modified files |
 |HTML| Show file differences that haven't been staged |
 |JAVASCRIPT | List all new or modified files |
